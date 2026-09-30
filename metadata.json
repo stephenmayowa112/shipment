@@ -1,0 +1,6 @@
+{
+  "name": "ShipTrack - Cross-Border Nigeria <-> US Shipment Tracker",
+  "description": "Cross-border batch logistics tracking platform for Nigeria and US shipments with automated WhatsApp Business Cloud API updates, batch administration, and public customer tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
